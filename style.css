@@ -1,0 +1,57 @@
+
+.jumbotron{
+  font-weight:800;
+  text-align: center;
+  padding: 210px;
+  background-color: #000017;
+  color: #fff;
+  }
+
+
+.white-section {
+  padding: 150px;
+  text-align: center;
+}
+
+
+
+.about{
+  align-items: center;
+  padding: 150px 250px 150px 250px;
+  background-color: #e7e7de;
+  text-align: center;
+}
+
+
+
+.skl{
+ text-align: center;
+ padding: 150px 120px 150px 120px;
+}
+
+.head {
+  padding-bottom: 70px;
+}
+
+
+
+
+.Contact{
+text-align: center;
+padding: 150px 200px 100px 200px;
+color: #fff;
+background-color: #080212;
+}
+
+.h2{
+  padding-bottom: 60px;
+}
+
+
+
+footer{
+  text-align: center;
+  background-color: #080212;
+  color: #fff;
+  padding: 50px;
+}
